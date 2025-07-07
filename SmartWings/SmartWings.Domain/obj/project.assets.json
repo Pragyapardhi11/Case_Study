@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pragya Pardhi\\.nuget\\packages\\": {},
+    "C:\\Users\\jsraj\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
+      "projectUniqueName": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
       "projectName": "SmartWings.Domain",
-      "projectPath": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
-      "packagesPath": "C:\\Users\\Pragya Pardhi\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\obj\\",
+      "projectPath": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
+      "packagesPath": "C:\\Users\\jsraj\\.nuget\\packages\\",
+      "outputPath": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pragya Pardhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jsraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

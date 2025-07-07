@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\",
+  "WorkspaceRootPath": "D:\\Case_Study\\SmartWings\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1F989F0-EEC5-4AAB-9360-D97BA0E6EF14}|SmartWings.Infrastructure\\SmartWings.Infrastructure.csproj|d:\\case_study\\smartwings\\smartwings.infrastructure\\dbcontext\\smartwingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F989F0-EEC5-4AAB-9360-D97BA0E6EF14}|SmartWings.Infrastructure\\SmartWings.Infrastructure.csproj|solutionrelative:smartwings.infrastructure\\dbcontext\\smartwingsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\case_study\\smartwings\\smartwings.domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Case_Study\\SmartWings\\SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\case_study\\smartwings\\smartwings.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\visual studio c#\\case_studyproject\\smartwings\\smartwings.domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\case_study\\smartwings\\smartwings.domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|d:\\case_study\\smartwings\\smartwings.domain\\smartwings.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A1BCFB9-33A0-4C16-A1BB-F01A43F9720A}|SmartWings.Domain\\SmartWings.Domain.csproj|solutionrelative:smartwings.domain\\smartwings.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,85 +38,85 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Payment.cs",
-              "RelativeDocumentMoniker": "SmartWings.Domain\\Payment.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Payment.cs",
-              "RelativeToolTip": "SmartWings.Domain\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:53:02.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Notification.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Notification.cs",
-              "RelativeDocumentMoniker": "SmartWings.Domain\\Notification.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Notification.cs",
-              "RelativeToolTip": "SmartWings.Domain\\Notification.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAASAAAAAAAAAA==",
+              "Title": "20250707121333_create.cs",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs",
+              "RelativeDocumentMoniker": "SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs",
+              "RelativeToolTip": "SmartWings.Infrastructure\\Migrations\\20250707121333_create.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:52:47.676Z",
+              "WhenOpened": "2025-07-07T12:13:35.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Booking.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Booking.cs",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\Booking.cs",
               "RelativeDocumentMoniker": "SmartWings.Domain\\Booking.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Booking.cs",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\Booking.cs",
               "RelativeToolTip": "SmartWings.Domain\\Booking.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:52:17.119Z",
+              "WhenOpened": "2025-07-07T12:11:16.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Admin.cs",
-              "RelativeDocumentMoniker": "SmartWings.Domain\\Admin.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Admin.cs",
-              "RelativeToolTip": "SmartWings.Domain\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\User.cs",
+              "RelativeDocumentMoniker": "SmartWings.Domain\\User.cs",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\User.cs",
+              "RelativeToolTip": "SmartWings.Domain\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:52:00.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Flight.cs",
-              "RelativeDocumentMoniker": "SmartWings.Domain\\Flight.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\Flight.cs",
-              "RelativeToolTip": "SmartWings.Domain\\Flight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:51:45.815Z",
+              "WhenOpened": "2025-07-07T12:02:32.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\User.cs",
-              "RelativeDocumentMoniker": "SmartWings.Domain\\User.cs",
-              "ToolTip": "D:\\Visual studio c#\\Case_StudyProject\\SmartWings\\SmartWings.Domain\\User.cs",
-              "RelativeToolTip": "SmartWings.Domain\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\Admin.cs",
+              "RelativeDocumentMoniker": "SmartWings.Domain\\Admin.cs",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\Admin.cs",
+              "RelativeToolTip": "SmartWings.Domain\\Admin.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T10:51:29.355Z",
+              "WhenOpened": "2025-07-07T11:45:40.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartWingsDbContext.cs",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Infrastructure\\DBContext\\SmartWingsDbContext.cs",
+              "RelativeDocumentMoniker": "SmartWings.Infrastructure\\DBContext\\SmartWingsDbContext.cs",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Infrastructure\\DBContext\\SmartWingsDbContext.cs",
+              "RelativeToolTip": "SmartWings.Infrastructure\\DBContext\\SmartWingsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:33:54.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartWings.Domain",
+              "DocumentMoniker": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
+              "RelativeDocumentMoniker": "SmartWings.Domain\\SmartWings.Domain.csproj",
+              "ToolTip": "D:\\Case_Study\\SmartWings\\SmartWings.Domain\\SmartWings.Domain.csproj",
+              "RelativeToolTip": "SmartWings.Domain\\SmartWings.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-07T11:28:54.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }

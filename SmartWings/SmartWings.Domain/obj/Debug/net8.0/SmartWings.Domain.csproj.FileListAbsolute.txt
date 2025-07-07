@@ -1,0 +1,12 @@
+D:\Case_Study\SmartWings\SmartWings.Domain\bin\Debug\net8.0\SmartWings.Domain.deps.json
+D:\Case_Study\SmartWings\SmartWings.Domain\bin\Debug\net8.0\SmartWings.Domain.dll
+D:\Case_Study\SmartWings\SmartWings.Domain\bin\Debug\net8.0\SmartWings.Domain.pdb
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.AssemblyInfoInputs.cache
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.AssemblyInfo.cs
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.csproj.CoreCompileInputs.cache
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.sourcelink.json
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.dll
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\refint\SmartWings.Domain.dll
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\SmartWings.Domain.pdb
+D:\Case_Study\SmartWings\SmartWings.Domain\obj\Debug\net8.0\ref\SmartWings.Domain.dll
